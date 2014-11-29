@@ -6,7 +6,7 @@ brew install caskroom/cask/brew-cask
 
 # dmg install
 # xld書式: %T/%n.%t
-brew cask install alfred bathyscaphe dropbox firefox-ja google-chrome musicbrainz-picard ripit sequel-pro skype sourcetree thunderbird-ja vagrant virtualbox vlc xld xtrafinder sequel-pro sqlite-database-browser keepassx
+brew cask install alfred bathyscaphe dropbox firefox-ja google-chrome musicbrainz-picard ripit sequel-pro skype sourcetree thunderbird-ja vagrant virtualbox vlc xld xtrafinder sequel-pro sqlite-database-browser keepassx karabiner
 
 # add Caskroom path
 brew cask alfred link
