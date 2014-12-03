@@ -10,6 +10,7 @@ brew cask install alfred bathyscaphe dropbox firefox-ja google-chrome musicbrain
 brew cask install simple-comic
 brew cask install hipchat slack
 brew cask install google-japanese-ime
+brew cask install vmware-fusion-6
 
 # add Caskroom path
 brew cask alfred link
