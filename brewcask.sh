@@ -9,6 +9,7 @@ brew install caskroom/cask/brew-cask
 brew cask install alfred bathyscaphe dropbox firefox-ja google-chrome musicbrainz-picard ripit sequel-pro skype sourcetree thunderbird-ja vagrant virtualbox vlc xld xtrafinder sequel-pro sqlite-database-browser keepassx karabiner
 brew cask install simple-comic
 brew cask install lastfm
+brew cask install magican
 brew cask install hipchat slack
 brew cask install google-japanese-ime
 brew cask install vmware-fusion-6
