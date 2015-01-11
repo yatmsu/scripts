@@ -14,6 +14,7 @@ brew cask install hipchat slack
 brew cask install google-japanese-ime
 brew cask install vmware-fusion-6
 
+/Applications/Alfred 2.app/Contents/MacOS/
 # add Caskroom path
 brew cask alfred link
 
