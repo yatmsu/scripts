@@ -6,7 +6,7 @@ else
 fi
 
 brew install git tig hub
-brew install rbenv ruby-build
+brew install rbenv ruby-build rbenv-gemset
 brew install lua
 brew install zsh tmux
 brew install tree curl wget nkf nmap
