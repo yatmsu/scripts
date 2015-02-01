@@ -18,6 +18,6 @@ brew install vim --with-perl --with-lua --override-system-vi
 curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.sh | sh
 
 if [ -d ~/.pow ]; then
-  curl get.pow.cx | sh
 else
+  curl get.pow.cx | sh
 fi
