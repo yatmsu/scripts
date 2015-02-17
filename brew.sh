@@ -1,6 +1,8 @@
 #!/bin/sh
 
-if type brew; then
+if type brew
+then
+  echo 'brew already installed'
 else
   ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 fi
@@ -17,7 +19,9 @@ brew install mysql
 brew install vim --with-perl --with-lua --override-system-vi
 curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.sh | sh
 
-if [ -d ~/.pow ]; then
+if [ -d ~/.pow ]
+then
+  echo 'pow already installed'
 else
   curl get.pow.cx | sh
 fi
