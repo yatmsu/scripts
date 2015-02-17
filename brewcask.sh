@@ -10,7 +10,7 @@ brew cask install simple-comic
 brew cask install bathyscaphe firefox-ja google-chrome
 brew cask install hipchat slack
 brew cask install google-japanese-ime
-brew cask install vagrant vmware-fusion-6 virtualbox
+brew cask install vagrant vmware-fusion6 virtualbox
 brew cask install sequel-pro sqlite-database-browser
 brew cask install dropbox
 brew cask install ripit
