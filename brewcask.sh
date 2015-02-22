@@ -16,6 +16,7 @@ brew cask install dropbox
 brew cask install ripit
 brew cask install skype
 brew cask install sourcetree
+brew cask install coteditor
 brew cask install thunderbird-ja
 brew cask install vlc
 # xld書式: %T/%n.%t
