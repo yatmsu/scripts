@@ -5,7 +5,7 @@ brew tap caskroom/versions
 brew install caskroom/cask/brew-cask
 
 # cask installs
-brew cask install alfred xtrafinder karabiner magican
+brew cask install xtrafinder karabiner magican
 brew cask install simple-comic
 brew cask install bathyscaphe firefox-ja google-chrome
 brew cask install hipchat slack
@@ -21,12 +21,6 @@ brew cask install thunderbird-ja
 brew cask install vlc
 # xld書式: %T/%n.%t
 brew cask install lastfm xld musicbrainz-picard
-
-# start Alfred
-~/Applications/Alfred\ 2.app/Contents/MacOS/Alfred\ 2
-
-# add Caskroom path
-brew cask alfred link
 
 brew cleanup
 brew cask cleanup
