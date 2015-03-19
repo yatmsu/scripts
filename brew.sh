@@ -7,6 +7,8 @@ else
   ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 fi
 
+brew tap homebrew/versions
+
 brew install git tig hub
 brew install rbenv ruby-build rbenv-gemset
 brew install lua
