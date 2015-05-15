@@ -20,6 +20,7 @@ brew cask install coteditor
 brew cask install thunderbird-ja
 brew cask install vlc
 brew cask install atom
+brew cask install graphviz
 # xld書式: %T/%n.%t
 brew cask install lastfm xld musicbrainz-picard
 
