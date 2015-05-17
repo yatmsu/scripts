@@ -9,7 +9,7 @@ fi
 
 brew tap homebrew/versions
 
-brew install git tig hub
+brew install git git-flow tig hub
 brew install rbenv ruby-build rbenv-gemset
 brew install lua
 brew install zsh tmux
