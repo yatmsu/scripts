@@ -14,6 +14,7 @@ brew install rbenv ruby-build rbenv-gemset
 brew install lua
 brew install zsh tmux
 brew install tree curl wget nkf nmap
+brew install watch
 brew install phantomjs
 brew install heroku-toolbelt
 brew install sqlite
