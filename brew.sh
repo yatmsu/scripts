@@ -15,6 +15,7 @@ brew install lua
 brew install zsh tmux
 brew install tree curl wget nkf nmap
 brew install watch
+brew install peco
 brew install phantomjs
 brew install heroku-toolbelt
 brew install sqlite
