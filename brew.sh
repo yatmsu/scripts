@@ -9,6 +9,7 @@ fi
 
 brew tap homebrew/versions
 
+brew install ansible
 brew install git git-flow tig hub
 brew install rbenv ruby-build rbenv-gemset
 brew install lua
