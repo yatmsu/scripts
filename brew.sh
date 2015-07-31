@@ -12,6 +12,7 @@ brew tap homebrew/versions
 brew install ansible
 brew install git git-flow tig hub
 brew install rbenv ruby-build rbenv-gemset
+brew install go
 brew install lua
 brew install zsh tmux
 brew install tree curl wget nkf nmap
