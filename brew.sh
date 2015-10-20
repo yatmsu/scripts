@@ -15,7 +15,7 @@ brew install rbenv ruby-build rbenv-gemset
 brew install go elixir
 brew install lua
 brew install zsh tmux
-brew install tree curl wget nkf nmap
+brew install tree curl wget nkf nmap ag
 brew install watch
 brew install peco
 brew install phantomjs
