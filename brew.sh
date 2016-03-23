@@ -19,6 +19,7 @@ brew install tree curl wget nkf nmap ag
 brew install watch
 brew install peco
 brew install phantomjs
+brew install sshrc
 brew install heroku-toolbelt
 brew install sqlite
 brew install mysql
