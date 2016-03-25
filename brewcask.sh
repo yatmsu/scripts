@@ -12,7 +12,7 @@ brew cask install hipchat slack
 brew cask install google-japanese-ime
 brew cask install vagrant vmware-fusion6 virtualbox packer
 brew cask install sequel-pro sqlite-database-browser
-brew cask install dropbox
+brew cask install dropbox amazon-cloud-drive
 brew cask install ripit
 brew cask install skype
 brew cask install sourcetree
