@@ -21,6 +21,7 @@ brew install peco
 brew install phantomjs
 brew install sshrc
 brew install heroku-toolbelt
+brew install puma/puma/puma-dev
 brew install sqlite
 brew install mysql
 brew install vim --with-perl --with-lua --override-system-vi
