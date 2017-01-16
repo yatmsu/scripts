@@ -14,7 +14,6 @@ brew cask install sequel-pro sqlite-database-browser
 brew cask install dropbox amazon-cloud-drive
 brew cask install ripit
 brew cask install sourcetree
-brew cask install coteditor
 brew cask install thunderbird-ja
 brew cask install vlc
 brew cask install atom
