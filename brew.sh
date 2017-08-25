@@ -13,6 +13,7 @@ brew install ansible
 brew install git git-flow tig hub git-secrets ghq
 brew install rbenv ruby-build rbenv-gemset
 brew install yarn
+brew install ghc cabal-install
 brew install go elixir
 brew install lua
 brew install zsh tmux
