@@ -13,6 +13,7 @@ brew cask install vagrant vmware-fusion6 virtualbox packer docker
 brew cask install sequel-pro sqlite-database-browser
 brew cask install dropbox amazon-cloud-drive
 brew cask install ripit
+brew cask install lepton
 brew cask install sourcetree
 brew cask install thunderbird-ja
 brew cask install vlc
