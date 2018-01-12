@@ -17,7 +17,7 @@ brew install ghc cabal-install
 brew install go elixir
 brew install lua
 brew install zsh tmux
-brew install tree curl wget nkf nmap ag
+brew install tree curl wget nkf nmap ag fd
 brew install watch
 brew install peco
 brew install phantomjs
