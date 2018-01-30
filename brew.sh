@@ -23,6 +23,7 @@ brew install peco
 brew install shellcheck
 brew install phantomjs
 brew install sshrc
+brew install docker-clean
 brew install heroku-toolbelt
 brew install puma/puma/puma-dev
 brew install sqlite
