@@ -27,6 +27,6 @@ brew install docker-clean
 brew install heroku-toolbelt
 brew install puma/puma/puma-dev
 brew install sqlite
-brew install mysql --client-only
+brew install mysql-client
 brew install vim --with-perl --with-lua --override-system-vi
 curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.sh | sh
