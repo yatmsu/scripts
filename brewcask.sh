@@ -4,7 +4,7 @@
 brew tap caskroom/cask
 
 # cask installs
-brew cask install karabiner-elements magican
+brew cask install karabiner-elements
 brew cask install simple-comic
 brew cask install bathyscaphe firefox-ja google-chrome
 brew cask install hipchat slack skype discord
