@@ -9,7 +9,7 @@ brew cask install simple-comic
 brew cask install bathyscaphe firefox-ja google-chrome
 brew cask install hipchat slack skype discord
 brew cask install google-japanese-ime
-brew cask install vagrant vmware-fusion6 virtualbox packer docker
+brew cask install vagrant virtualbox packer docker
 brew cask install sequel-pro sqlite-database-browser
 brew cask install dropbox amazon-cloud-drive
 brew cask install ngrok
