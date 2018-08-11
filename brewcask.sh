@@ -6,8 +6,8 @@ brew tap caskroom/cask
 # cask installs
 brew cask install karabiner-elements
 brew cask install simple-comic
-brew cask install bathyscaphe firefox-ja google-chrome
-brew cask install hipchat slack skype discord
+brew cask install bathyscaphe google-chrome
+brew cask install slack skype discord
 brew cask install google-japanese-ime
 brew cask install vagrant virtualbox packer docker
 brew cask install sequel-pro sqlite-database-browser
