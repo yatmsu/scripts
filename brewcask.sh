@@ -12,6 +12,7 @@ brew cask install google-japanese-ime
 brew cask install vagrant virtualbox packer docker
 brew cask install sequel-pro sqlite-database-browser
 brew cask install dropbox amazon-cloud-drive
+brew cask install spotify
 brew cask install ngrok
 brew cask install ripit
 brew cask install lepton
