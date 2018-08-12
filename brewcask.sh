@@ -17,7 +17,6 @@ brew cask install ngrok
 brew cask install ripit
 brew cask install lepton
 brew cask install sourcetree
-brew cask install thunderbird-ja
 brew cask install vlc
 brew cask install atom
 brew cask install graphviz
