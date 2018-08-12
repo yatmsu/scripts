@@ -20,7 +20,6 @@ brew cask install sourcetree
 brew cask install vlc
 brew cask install atom
 brew cask install graphviz
-brew cask install xmarks-safari
 brew cask install twitch
 # xld書式: %T/%n.%t
 brew cask install lastfm xld musicbrainz-picard
