@@ -10,6 +10,7 @@ fi
 brew tap homebrew/versions
 
 brew install ansible
+brew install terraform terraform-docs
 brew install git tig hub git-secrets ghq
 brew install rbenv ruby-build rbenv-gemset
 brew install yarn
