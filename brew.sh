@@ -25,6 +25,7 @@ brew install fping
 brew install shellcheck
 brew install phantomjs
 brew install sshrc
+brew install ffmpeg
 brew install docker-clean
 brew install heroku-toolbelt
 brew install puma/puma/puma-dev
