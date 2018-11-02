@@ -13,6 +13,7 @@ brew install ansible
 brew install terraform terraform-docs
 brew install git tig hub git-secrets ghq
 brew install rbenv ruby-build rbenv-gemset
+brew install tfenv
 brew install yarn
 brew install ghc cabal-install
 brew install go elixir
