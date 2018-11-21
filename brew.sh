@@ -29,6 +29,7 @@ brew install sshrc
 brew install ffmpeg
 brew install docker-clean
 brew install heroku-toolbelt
+brew install circleci
 brew install puma/puma/puma-dev
 brew install sqlite
 brew install mysql-client
