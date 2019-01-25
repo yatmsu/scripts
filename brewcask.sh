@@ -10,6 +10,7 @@ brew cask install bathyscaphe google-chrome
 brew cask install slack skype discord
 brew cask install google-japanese-ime
 brew cask install vagrant virtualbox packer docker
+brew cask install minikube
 brew cask install sequel-pro sqlite-database-browser
 brew cask install dropbox amazon-cloud-drive
 brew cask install spotify
