@@ -22,6 +22,7 @@ brew install zsh tmux
 brew install tree curl wget nkf nmap ag fd ncdu
 brew install watch
 brew install peco
+brew install rename
 brew install fping
 brew install shellcheck
 brew install phantomjs
