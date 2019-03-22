@@ -15,6 +15,7 @@ brew install git tig hub git-secrets ghq
 brew install rbenv ruby-build rbenv-gemset
 brew install tfenv
 brew install yarn
+brew install python
 brew install ghc cabal-install
 brew install go elixir
 brew install lua
