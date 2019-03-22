@@ -16,6 +16,7 @@ brew install rbenv ruby-build rbenv-gemset
 brew install tfenv
 brew install yarn
 brew install python
+pip3 install --user pynvim # relating to deoplete.nvim
 brew install ghc cabal-install
 brew install go elixir
 brew install lua
