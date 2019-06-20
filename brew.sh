@@ -11,6 +11,7 @@ brew tap homebrew/versions
 
 brew install ansible
 brew install terraform terraform-docs
+brew install weaveworks/tap/eksctl
 brew install git tig hub git-secrets ghq
 brew install rbenv ruby-build rbenv-gemset
 brew install tfenv
