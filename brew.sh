@@ -11,6 +11,7 @@ brew tap homebrew/versions
 
 brew install ansible
 brew install terraform terraform-docs
+brew install c-bata/kube-prompt/kube-prompt
 brew install kubernetes-helm
 brew install weaveworks/tap/eksctl
 brew install git tig hub git-secrets ghq
