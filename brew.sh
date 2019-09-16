@@ -17,6 +17,7 @@ brew install weaveworks/tap/eksctl
 brew install git tig hub git-secrets ghq
 brew install rbenv ruby-build rbenv-gemset
 brew install tfenv
+brew install direnv
 brew install yarn
 brew install python
 pip3 install --user pynvim # relating to deoplete.nvim
